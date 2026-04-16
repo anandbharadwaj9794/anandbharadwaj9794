@@ -58,9 +58,8 @@ I am a quick learner with a strong analytical mindset, continuously improving my
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
 | 1 | [**Employee Management System**](https://github.com/anandbharadwaj9794/SQL_Project_Employee_Management_System) | HR productivity system tracking workforce distribution, roles, and employee data. Ideal for small to mid-size organizations. | MySQL |
-| 2 | [**Sales Data Analysis**](https://github.com/anandbharadwaj9794/Sales-Data-Analysis) | Transforms raw transactional data into actionable business insights through structured SQL analysis. | MySQL |
-| 3 | [**AgriTrack — Agricultural Data System**](https://github.com/anandbharadwaj9794/Sql--Projects) | Tracks farmer land records, crops, fertilizer usage, income/expenses, weather, and market demand. Generates yield and pricing insights. | MySQL |
-| 4 | [**SQL Mini Project**](https://github.com/anandbharadwaj9794/sql-mini-project) | Hands-on SQL practice on a realistic company database (employees, products, customers, orders) with 35+ queries from basic SELECT to advanced joins. | MySQL |
+| 2 | [**AgriTrack — Agricultural Data System**](https://github.com/anandbharadwaj9794/Sql--Projects) | Tracks farmer land records, crops, fertilizer usage, income/expenses, weather, and market demand. Generates yield and pricing insights. | MySQL |
+| 3 | [**SQL Mini Project**](https://github.com/anandbharadwaj9794/sql-mini-project) | Hands-on SQL practice on a realistic company database (employees, products, customers, orders) with 35+ queries from basic SELECT to advanced joins. | MySQL |
 
 ---
 
@@ -98,18 +97,6 @@ I am a quick learner with a strong analytical mindset, continuously improving my
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandbharadwaj9794&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandbharadwaj9794&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anandbharadwaj9794&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anandbharadwaj9794&label=Profile+Views&color=2196F3&style=flat"/>
