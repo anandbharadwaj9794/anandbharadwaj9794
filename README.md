@@ -18,10 +18,10 @@ I am a quick learner with a strong analytical mindset, continuously improving my
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anandbharadwaj9794" target="_blank">
+  <a href="www.linkedin.com/in/medurivsanandbharadwaj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@anandbharadwaj9794" target="_blank">
+  <a href="https://medium.com/@anand.bharadwaj9794" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="mailto:anand.bharadwaj9794@gmail.com">
